@@ -7,7 +7,15 @@ This is The File system resides on a disk that is 128 KB in size.It supports at 
 
 
 
+
+![132259825-77e28c1e-f03d-4737-ad76-09b09efdb668](https://user-images.githubusercontent.com/22751026/132553977-f58ba6cf-9672-41eb-8e64-31a7c848909a.png)
+
+
+
+
+
 **You can perform these many operations in this file system :**
+
 
 'sb' : to show superblock information
 'create' : to create new file (file name should not contain any space)
